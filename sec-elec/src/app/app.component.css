@@ -1,0 +1,37 @@
+.heading{
+    margin: 25px auto;
+    color:lightcoral;
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+.main{
+    text-align: center;
+    background-color: rgb(222, 74, 74);
+}
+
+.row{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+img {
+    width: 80px;
+    height: auto;
+}
+img:hover{
+    box-shadow: 7px 6px rgb(175, 173, 173);
+}
+
+p{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+i{
+    color: white;
+}
+
+.partyicon{
+    margin: 30px auto;
+}
